@@ -1,11 +1,17 @@
+head {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
 body {
-    background: #999;
-    font-family: Arial;
+    text-align: center;
+    padding-top: 50px;
+    background: #FFFDD0;
+    font-family: 'Merriweather', serif;
+    
 }
 h4 {
-    background: blueviolet;
     padding: 10px;
 }
 .secondary {
-    background: blue;
+    padding: 10px;
 }
