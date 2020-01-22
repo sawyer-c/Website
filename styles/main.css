@@ -9,7 +9,9 @@ body {
     font-family: 'Merriweather', serif;
     
 }
-
+p {
+    font-family: 'Merriweather', serif; 
+}
 .aboutBody {
     text-align: left;
 }
@@ -31,6 +33,7 @@ body {
     width: 100%;
     background-color: #FFFDD0;
     text-align: left;
+    font-family: 'Merryweather', serif;
 }
 
 .copyright {
