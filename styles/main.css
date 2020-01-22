@@ -3,9 +3,12 @@ head {
 }
 
 body {
-    padding-left: 20%;
-    padding-right: 20%;
-    background: #FFFDD0;
+	margin-top: 25px;
+	margin-bottom: 0;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-color: #FFFFFF;
+    background: #500000;
     font-family: 'Merriweather', serif;
     
 }
@@ -22,7 +25,7 @@ p {
 }
 
 .topLine {
-    padding-top: 5%;
+    padding-top: 10px;
     padding-bottom: 5px;
 }
 
@@ -30,7 +33,7 @@ p {
     position: relative;
     height: 5%;
     width: 100%;
-    background-color: #FFFDD0;
+    
     text-align: left;
     font-family: 'Merryweather', serif;
 }
@@ -42,6 +45,7 @@ p {
     line-height: 40px;
     text-align: left;
     bottom: 0;
+	color: white;
 }
 
 ul {
@@ -85,4 +89,12 @@ li a:hover {
   display: table;
   clear: both;
 }
-    
+
+.maroonAndWhite {
+	background: #FFFFFF; 
+	height: 900px; 
+	padding-top: 0; 
+	padding-left: 50px; 
+	padding-right: 50px;
+	padding-bottom: 20px;
+}
