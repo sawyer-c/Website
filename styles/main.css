@@ -13,7 +13,8 @@ body {
     
 }
 p {
-    font-family: 'Merriweather', serif; 
+    font-family: 'Merriweather', serif;
+    word-spacing: 3px;
 }
 .aboutBody {
     text-align: left;
