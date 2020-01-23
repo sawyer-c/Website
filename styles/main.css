@@ -96,3 +96,7 @@ li a:hover {
 	padding-right: 50px;
 	padding-bottom: 20px;
 }
+
+a {
+  color: #500000;
+}
