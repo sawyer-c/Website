@@ -14,6 +14,7 @@ body {
 p {
     font-family: 'Merriweather', serif;
     word-spacing: 3px;
+    text-indent: 5%;
 }
 .aboutBody {
     text-align: left;
@@ -99,4 +100,43 @@ li a:hover {
 
 a {
   color: #500000;
+}
+
+.videoContainer {
+  position: relative;
+  overflow: hidden;
+  height: 100%;
+}
+
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 0%;
+  
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-github-square {
+  background: #6f42c1;
+  color: white;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
 }
