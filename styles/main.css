@@ -12,14 +12,21 @@ body {
   height: auto;  
 }
 p {
-    font-family: 'Merriweather', serif;
-    word-spacing: 3px;
-    text-indent: 5%;
-    height: auto;
+  font-family: 'Merriweather', serif;
+  word-spacing: 3px;
+  text-indent: 5%;
+  height: auto;
 }
 
 .aboutContainer {
-    text-align: left;
+  text-align: left;
+}
+
+.centerImg {
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 50%;
 }
 
 
@@ -43,11 +50,11 @@ p {
 }
 
 .copyright {
-    position: static;
-    line-height: 25px;
-    text-align: center;
-    bottom: 0;
-	  color: #ffffff;
+  position: static;
+  line-height: 25px;
+  text-align: center;
+  bottom: 0;
+	color: #ffffff;
 }
 
 ul {
@@ -79,8 +86,8 @@ li a:hover {
 }
 
 .column {
-  padding-left: 4%;
-  padding-right: 2%;
+  padding-left: 10px;
+  padding-right: 10px;
   text-align: left;
   float: left;
   width: 50%;
@@ -98,7 +105,7 @@ li a:hover {
 	padding-top: 0; 
 	padding-left: 50px; 
 	padding-right: 50px;
-	padding-bottom: 20px;
+	padding-bottom: 100px;
 }
 
 a {
