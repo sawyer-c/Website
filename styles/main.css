@@ -4,39 +4,41 @@ head {
 
 body {
 	margin-top: 25px;
-	margin-bottom: 0;
+	margin-bottom: 25px;
 	margin-left: 200px;
 	margin-right: 200px;
 	background: #500000;
   font-family: 'Merriweather', serif;
-    
+  height: auto;  
 }
 p {
     font-family: 'Merriweather', serif;
     word-spacing: 3px;
     text-indent: 5%;
 }
-.aboutBody {
+
+.aboutContainer {
     text-align: left;
 }
 
+
 .topNav {
-    text-align: center;
-    padding-bottom: 25px;
+  text-align: center;
+  padding-bottom: 25px;
 }
 
 .topLine {
-    padding-top: 10px;
-    padding-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
 }
 
 .footer {
-    position: relative;
-    height: 5%;
-    width: 100%;
+  position: relative;
+  height: 5%;
+  width: 100%;
     
-    text-align: left;
-    font-family: 'Merryweather', serif;
+  text-align: left;
+  font-family: 'Merryweather', serif;
 }
 
 .copyright {
