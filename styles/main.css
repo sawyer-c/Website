@@ -18,6 +18,9 @@ p {
   height: auto;
 }
 
+abbr {
+  color: #500000;
+}
 .aboutContainer {
   text-align: left;
 }
